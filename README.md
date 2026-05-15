@@ -17,17 +17,6 @@
 * Databases: MongoDB, SQL
 * Tools: Git, GitHub, VS Code
 
----
-
-## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
-![Laxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmi-hasija&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmi-hasija&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect With Me
 
