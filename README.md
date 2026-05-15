@@ -21,9 +21,11 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laxmi-hasija\&show_icons=true\&theme=tokyonight)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmi-hasija\&layout=compact\&theme=tokyonight)
+![Laxmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=laxmi-hasija&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmi-hasija&layout=compact&theme=radical)
 
 ---
 
